@@ -4,7 +4,12 @@ const word = 'javascript';
 
 
 // Dichiara la funzione qui.
+function vowelsArr(howManyvowels) {
+    let vowelsCount = 0;
+    for (let i = 0; i < word.length; i++) {
 
+    }
+}
 
 // Invoca la funzione qui e stampa il risultato in console
 
